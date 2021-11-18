@@ -5,5 +5,9 @@ OpenWeather api  use to get details of the City.
 
 
 
-https://user-images.githubusercontent.com/84002164/142151122-29a1a9e0-0e98-4f91-8e96-95f0830a2c9d.mp4
+
+
+
+
+https://user-images.githubusercontent.com/84002164/142369908-d3c5590b-30f6-468a-a4c2-efbb259c694e.mp4
 
